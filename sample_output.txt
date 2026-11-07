@@ -1,0 +1,58 @@
+Q1.py
+Marks updated.
+Marks updated.
+Ali - 85 - Grade: A
+Sara - 55 - Grade: C
+Marks updated.
+Marks must be between 0 and 100.
+Ali's new grade: A
+__grade cannot be accessed directly because it is private.
+
+Q2.py
+Deposit successful.
+Withdrawal successful.
+Invalid withdrawal amount.
+Incorrect PIN.
+Balance: Rs. 5500
+
+Q3.py
+Name: Hassan
+Employee ID: D101
+Programming language: Python
+
+Name: Ayesha
+Employee ID: M201
+Team size: 8
+
+Q4.py
+Car rent for 3 days: Rs. 16000
+Bike rent for 3 days: Rs. 2700.0
+Days must be greater than zero.
+
+Q5.py
+Email sent: Your order has been delivered.
+SMS sent: Your order has been delivered.
+Push notification sent: Your order has been delivered.
+WhatsApp message sent: Your order has been delivered.
+
+Q6.py
+RegularCustomer final bill: Rs. 9500.0
+PremiumCustomer final bill: Rs. 9000.0
+VIPCustomer final bill: Rs. 8000.0
+GoldCustomer final bill: Rs. 8500.0
+Bill amount cannot be negative.
+
+Q7.py
+Circle area: 78.53975
+Circle perimeter: 31.4159
+Rectangle area: 24
+Rectangle perimeter: 20
+Shape cannot be created because it has abstract methods.
+
+Q8.py
+Card payment: Rs. 2500
+Wallet payment: Rs. 1500
+Bank transfer payment: Rs. 5000
+Cash payment: Rs. 700
+Card refund: Rs. 2500
+Amount must be positive.
